@@ -1,0 +1,110 @@
+body {
+  overflow-x: hidden;
+}
+
+.filter-container {
+  height: 70px;
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 30px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.spacing {
+
+  padding: 0px;
+  margin: 0 auto;
+}
+
+.search {
+  border-radius: 40px !important;
+  /* margin-top: 2px !important;   */
+  height: 50px;
+}
+
+.content-card {
+  max-width: 1350px;
+  margin: 0 auto;
+  top: 150px !important;
+  height: 400px !important;
+  background-color: #eeeeee !important;
+}
+
+.button {
+  background-color: #222222 !important;
+  color: white !important;
+  margin-bottom: 70px !important;
+  font-size: 20px !important;
+}
+
+.card {
+  height: auto !important;
+}
+
+.image {
+  border: transparent !important;
+}
+
+
+
+.features-div {
+  margin-top: 15%;
+}
+
+.features-card {
+  width: 100% !important;
+  height: 400px !important;
+  border-radius: 10px!important;
+}
+
+.experiences {
+  background-color: white !important;
+  color: black !important;
+  border-radius: 5px !important;
+  font-size: 15px !important;
+  margin-left: -10px !important;
+}
+
+.card-img-overlay {
+  text-align: center;
+  margin-top: 170px !important;
+}
+
+nav{
+  height: 85px !important;
+}
+
+
+.btn-top{
+  border-radius: 15px !important;
+  width: 70px;
+  margin:0px !important;
+  padding: 0px !important;
+ 
+}
+
+@media screen and (max-width: 768px) {
+
+  .Main-Filter {
+
+    display: none !important;
+
+  }
+}
+
+@media screen and (max-width: 550px) {
+
+  .feature-head {
+
+    margin-top: 170px !important;
+    margin-left: 10px !important;
+
+  }
+  
+  .col-md{
+    margin-bottom: 210px !important;
+  }
+
+}

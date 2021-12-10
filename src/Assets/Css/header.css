@@ -1,0 +1,27 @@
+.bg-image{
+    background-image: url('https://images.unsplash.com/photo-1487730116645-74489c95b41b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&w=1500') !important;
+    background-image: cover;
+    width: 90% !important;
+    margin: 0 auto !important;
+    margin-top: 60px !important;
+    height: 700px !important;
+    background-repeat: no-repeat;
+    border-radius: 10px !important;
+    
+    
+}
+
+
+#main{
+    height: auto !important;
+    background-color: 	#000000!important;
+    width: 100vw !important;
+    margin: 0 auto !important;
+  
+}
+
+.nav-item a{
+    color: white !important;
+    margin: 10px;
+}
+/* s */
